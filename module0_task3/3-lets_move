@@ -1,3 +1,2 @@
 #! /bin/bash
-mv H* tmp/u
-mv S* tmp/u
+./3-lets_move
