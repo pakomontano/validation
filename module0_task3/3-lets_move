@@ -1,2 +1,3 @@
 #! /bin/bash
-ls -la
+mv H* tmp/u
+mv S* tmp/u
