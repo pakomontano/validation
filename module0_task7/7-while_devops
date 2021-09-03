@@ -1,0 +1,7 @@
+#! /bin/bash
+puntero=1
+while [ $puntero -le 10 ] 
+do
+	echo "DevOps"
+	puntero=$(( $puntero+1 ))
+done
